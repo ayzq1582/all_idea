@@ -1,0 +1,4 @@
+在工具--->选项--->样式表--->markdownpad-github.css中添加
+table{
+    border-collapse: collapse;
+}
