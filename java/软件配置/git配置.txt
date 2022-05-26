@@ -1,0 +1,5 @@
+-- 生成公钥
+ssh-keygen -t rsa -C 15010071819@163.com
+
+-- 配置情况
+ssk -T git@github.com
